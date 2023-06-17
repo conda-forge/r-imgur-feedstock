@@ -1,11 +1,11 @@
-About r-imgur
-=============
+About r-imgur-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-imgur-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/leeper/imguR
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-imgur-feedstock/blob/main/LICENSE.txt)
 
 Summary: A complete API client for the image hosting service Imgur.com, including the an imgur graphics device, enabling the easy upload and sharing of plots.
 
