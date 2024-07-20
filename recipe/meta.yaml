@@ -1,7 +1,6 @@
 {% set version = '1.0.3' %}
 
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-imgur
@@ -14,8 +13,7 @@ source:
   sha256: 6311f971d9a2041250e45c81184d0408f220f37236e62016be7965c41e7cc791
 
 build:
-  merge_build_host: True  # [win]
-  number: 3
+  number: 4
   noarch: generic
   rpaths:
     - lib/R/lib/
